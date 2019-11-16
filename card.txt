@@ -1,0 +1,128 @@
+druid
+
+uldum e,l
+ungoro r
+shadows l,2e,l
+streets e
+classic e,2c
+boomsday e
+rumble l
+
+hunter
+
+classic e
+rumble e,l
+uldum l,2e,2e,l
+ungoro e
+boomsday e,e
+tgt e,l
+witchwood c
+kobolds 2r
+shadows l,l
+
+mage
+
+kobolds c
+shadows r,e,r,2e
+uldum r,r,l,2e,e
+classic 2e
+streets e
+rumble 2e,l
+gvg e
+witchwood r
+boomsday l
+
+paladin
+
+streets c
+uldum l,e,l,2r,2e
+shadows 2e,2e
+classic 2r
+kobolds 2e
+rumble 2e
+
+priest
+
+shadows e,l
+uldum l,l,2e,2e
+kobolds c
+gvg e
+rumble e
+witchwood c
+
+rogue
+
+classic e
+tft c,c
+uldum e,2e,r,l,r
+tgt 2e
+streets e,e
+shadows 2e
+rumble e,l
+
+shaman 
+
+uldum l,2e,2r,e,r
+rumble 2e,e
+tft r
+ungoro e
+
+warlock
+
+uldum l,2r,l,e
+shadows r,2e,2e
+gvg e
+boomsday l
+rumble e,2e
+classic r
+
+warrior
+
+uldum l,2e,2e,l,r,l
+rumble e
+
+neutral
+
+uldum 2e,2e,r,r,r,2e,r,2e,2e,2e,2e,2e,r,l,l,l
+rumble r,2e,e,e,e
+streets e,2e
+shadows e,r,e,l,r,e,r,2r,2r,e,2e
+gods r,e
+gvg e
+classic r,2e,2r
+karazhan l
+boomsday e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
